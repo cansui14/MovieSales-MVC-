@@ -1,0 +1,2 @@
+# FilmSatisSitesi
+ Bu projede, film satışı, sepete ekleme, film ekleme ve silme işlemlerini gerçekleştiren bir site geliştirilmiştir. Entity Framework ile veritabanı işlemleri ORM yöntemiyle yönetilmiş, AutoMapper ile DTO ve domain modelleri arasında veri eşlemesi optimize edilmiştir. Proje, ASP.NET Core MVC ile model, görünüm ve denetleyici katmanlarına ayrılmış; Dependency Injection kullanılarak servisler arası bağımlılıklar azaltılmıştır.
