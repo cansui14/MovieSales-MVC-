@@ -1,0 +1,724 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\ISTKA-Yaz-2-Projects\\AspNetCoreMVC\\AspNetCoreMvc-eTicaret-MovieSales\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F5A0EA19-E3F4-4FDF-A23D-2003ED68CBB3}|AspNetCoreMvc-eTicaret-MovieSales\\AspNetCoreMvc-eTicaret-MovieSales.csproj|C:\\ISTKA-Yaz-2-Projects\\AspNetCoreMVC\\AspNetCoreMvc-eTicaret-MovieSales\\aspnetcoremvc-eticaret-moviesales\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5A0EA19-E3F4-4FDF-A23D-2003ED68CBB3}|AspNetCoreMvc-eTicaret-MovieSales\\AspNetCoreMvc-eTicaret-MovieSales.csproj|solutionrelative:aspnetcoremvc-eticaret-moviesales\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5A0EA19-E3F4-4FDF-A23D-2003ED68CBB3}|AspNetCoreMvc-eTicaret-MovieSales\\AspNetCoreMvc-eTicaret-MovieSales.csproj|c:\\istka-yaz-2-projects\\aspnetcoremvc\\aspnetcoremvc-eticaret-moviesales\\aspnetcoremvc-eticaret-moviesales\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F5A0EA19-E3F4-4FDF-A23D-2003ED68CBB3}|AspNetCoreMvc-eTicaret-MovieSales\\AspNetCoreMvc-eTicaret-MovieSales.csproj|solutionrelative:aspnetcoremvc-eticaret-moviesales\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5A0EA19-E3F4-4FDF-A23D-2003ED68CBB3}|AspNetCoreMvc-eTicaret-MovieSales\\AspNetCoreMvc-eTicaret-MovieSales.csproj|C:\\ISTKA-Yaz-2-Projects\\AspNetCoreMVC\\AspNetCoreMvc-eTicaret-MovieSales\\aspnetcoremvc-eticaret-moviesales\\data\\moviedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5A0EA19-E3F4-4FDF-A23D-2003ED68CBB3}|AspNetCoreMvc-eTicaret-MovieSales\\AspNetCoreMvc-eTicaret-MovieSales.csproj|solutionrelative:aspnetcoremvc-eticaret-moviesales\\data\\moviedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5A0EA19-E3F4-4FDF-A23D-2003ED68CBB3}|AspNetCoreMvc-eTicaret-MovieSales\\AspNetCoreMvc-eTicaret-MovieSales.csproj|C:\\ISTKA-Yaz-2-Projects\\AspNetCoreMVC\\AspNetCoreMvc-eTicaret-MovieSales\\aspnetcoremvc-eticaret-moviesales\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5A0EA19-E3F4-4FDF-A23D-2003ED68CBB3}|AspNetCoreMvc-eTicaret-MovieSales\\AspNetCoreMvc-eTicaret-MovieSales.csproj|solutionrelative:aspnetcoremvc-eticaret-moviesales\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5A0EA19-E3F4-4FDF-A23D-2003ED68CBB3}|AspNetCoreMvc-eTicaret-MovieSales\\AspNetCoreMvc-eTicaret-MovieSales.csproj|C:\\ISTKA-Yaz-2-Projects\\AspNetCoreMVC\\AspNetCoreMvc-eTicaret-MovieSales\\aspnetcoremvc-eticaret-moviesales\\views\\customer\\messageshow.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F5A0EA19-E3F4-4FDF-A23D-2003ED68CBB3}|AspNetCoreMvc-eTicaret-MovieSales\\AspNetCoreMvc-eTicaret-MovieSales.csproj|solutionrelative:aspnetcoremvc-eticaret-moviesales\\views\\customer\\messageshow.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5A0EA19-E3F4-4FDF-A23D-2003ED68CBB3}|AspNetCoreMvc-eTicaret-MovieSales\\AspNetCoreMvc-eTicaret-MovieSales.csproj|C:\\ISTKA-Yaz-2-Projects\\AspNetCoreMVC\\AspNetCoreMvc-eTicaret-MovieSales\\aspnetcoremvc-eticaret-moviesales\\views\\shared\\_layoutmovie.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F5A0EA19-E3F4-4FDF-A23D-2003ED68CBB3}|AspNetCoreMvc-eTicaret-MovieSales\\AspNetCoreMvc-eTicaret-MovieSales.csproj|solutionrelative:aspnetcoremvc-eticaret-moviesales\\views\\shared\\_layoutmovie.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5A0EA19-E3F4-4FDF-A23D-2003ED68CBB3}|AspNetCoreMvc-eTicaret-MovieSales\\AspNetCoreMvc-eTicaret-MovieSales.csproj|C:\\ISTKA-Yaz-2-Projects\\AspNetCoreMVC\\AspNetCoreMvc-eTicaret-MovieSales\\aspnetcoremvc-eticaret-moviesales\\repositories\\moviesalerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5A0EA19-E3F4-4FDF-A23D-2003ED68CBB3}|AspNetCoreMvc-eTicaret-MovieSales\\AspNetCoreMvc-eTicaret-MovieSales.csproj|solutionrelative:aspnetcoremvc-eticaret-moviesales\\repositories\\moviesalerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5A0EA19-E3F4-4FDF-A23D-2003ED68CBB3}|AspNetCoreMvc-eTicaret-MovieSales\\AspNetCoreMvc-eTicaret-MovieSales.csproj|C:\\ISTKA-Yaz-2-Projects\\AspNetCoreMVC\\AspNetCoreMvc-eTicaret-MovieSales\\aspnetcoremvc-eticaret-moviesales\\views\\customer\\confirmpayment.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F5A0EA19-E3F4-4FDF-A23D-2003ED68CBB3}|AspNetCoreMvc-eTicaret-MovieSales\\AspNetCoreMvc-eTicaret-MovieSales.csproj|solutionrelative:aspnetcoremvc-eticaret-moviesales\\views\\customer\\confirmpayment.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5A0EA19-E3F4-4FDF-A23D-2003ED68CBB3}|AspNetCoreMvc-eTicaret-MovieSales\\AspNetCoreMvc-eTicaret-MovieSales.csproj|C:\\ISTKA-Yaz-2-Projects\\AspNetCoreMVC\\AspNetCoreMvc-eTicaret-MovieSales\\aspnetcoremvc-eticaret-moviesales\\controllers\\sepetcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5A0EA19-E3F4-4FDF-A23D-2003ED68CBB3}|AspNetCoreMvc-eTicaret-MovieSales\\AspNetCoreMvc-eTicaret-MovieSales.csproj|solutionrelative:aspnetcoremvc-eticaret-moviesales\\controllers\\sepetcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5A0EA19-E3F4-4FDF-A23D-2003ED68CBB3}|AspNetCoreMvc-eTicaret-MovieSales\\AspNetCoreMvc-eTicaret-MovieSales.csproj|C:\\ISTKA-Yaz-2-Projects\\AspNetCoreMVC\\AspNetCoreMvc-eTicaret-MovieSales\\aspnetcoremvc-eticaret-moviesales\\repositories\\moviesaledetailrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5A0EA19-E3F4-4FDF-A23D-2003ED68CBB3}|AspNetCoreMvc-eTicaret-MovieSales\\AspNetCoreMvc-eTicaret-MovieSales.csproj|solutionrelative:aspnetcoremvc-eticaret-moviesales\\repositories\\moviesaledetailrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5A0EA19-E3F4-4FDF-A23D-2003ED68CBB3}|AspNetCoreMvc-eTicaret-MovieSales\\AspNetCoreMvc-eTicaret-MovieSales.csproj|C:\\ISTKA-Yaz-2-Projects\\AspNetCoreMVC\\AspNetCoreMvc-eTicaret-MovieSales\\aspnetcoremvc-eticaret-moviesales\\interfaces\\imoviesaledetailrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5A0EA19-E3F4-4FDF-A23D-2003ED68CBB3}|AspNetCoreMvc-eTicaret-MovieSales\\AspNetCoreMvc-eTicaret-MovieSales.csproj|solutionrelative:aspnetcoremvc-eticaret-moviesales\\interfaces\\imoviesaledetailrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5A0EA19-E3F4-4FDF-A23D-2003ED68CBB3}|AspNetCoreMvc-eTicaret-MovieSales\\AspNetCoreMvc-eTicaret-MovieSales.csproj|C:\\ISTKA-Yaz-2-Projects\\AspNetCoreMVC\\AspNetCoreMvc-eTicaret-MovieSales\\aspnetcoremvc-eticaret-moviesales\\mapping\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5A0EA19-E3F4-4FDF-A23D-2003ED68CBB3}|AspNetCoreMvc-eTicaret-MovieSales\\AspNetCoreMvc-eTicaret-MovieSales.csproj|solutionrelative:aspnetcoremvc-eticaret-moviesales\\mapping\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5A0EA19-E3F4-4FDF-A23D-2003ED68CBB3}|AspNetCoreMvc-eTicaret-MovieSales\\AspNetCoreMvc-eTicaret-MovieSales.csproj|C:\\ISTKA-Yaz-2-Projects\\AspNetCoreMVC\\AspNetCoreMvc-eTicaret-MovieSales\\aspnetcoremvc-eticaret-moviesales\\models\\moviesaledetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5A0EA19-E3F4-4FDF-A23D-2003ED68CBB3}|AspNetCoreMvc-eTicaret-MovieSales\\AspNetCoreMvc-eTicaret-MovieSales.csproj|solutionrelative:aspnetcoremvc-eticaret-moviesales\\models\\moviesaledetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5A0EA19-E3F4-4FDF-A23D-2003ED68CBB3}|AspNetCoreMvc-eTicaret-MovieSales\\AspNetCoreMvc-eTicaret-MovieSales.csproj|C:\\ISTKA-Yaz-2-Projects\\AspNetCoreMVC\\AspNetCoreMvc-eTicaret-MovieSales\\aspnetcoremvc-eticaret-moviesales\\viewmodels\\customerfaturaviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5A0EA19-E3F4-4FDF-A23D-2003ED68CBB3}|AspNetCoreMvc-eTicaret-MovieSales\\AspNetCoreMvc-eTicaret-MovieSales.csproj|solutionrelative:aspnetcoremvc-eticaret-moviesales\\viewmodels\\customerfaturaviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5A0EA19-E3F4-4FDF-A23D-2003ED68CBB3}|AspNetCoreMvc-eTicaret-MovieSales\\AspNetCoreMvc-eTicaret-MovieSales.csproj|C:\\ISTKA-Yaz-2-Projects\\AspNetCoreMVC\\AspNetCoreMvc-eTicaret-MovieSales\\aspnetcoremvc-eticaret-moviesales\\views\\customer\\confirmaddress.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F5A0EA19-E3F4-4FDF-A23D-2003ED68CBB3}|AspNetCoreMvc-eTicaret-MovieSales\\AspNetCoreMvc-eTicaret-MovieSales.csproj|solutionrelative:aspnetcoremvc-eticaret-moviesales\\views\\customer\\confirmaddress.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5A0EA19-E3F4-4FDF-A23D-2003ED68CBB3}|AspNetCoreMvc-eTicaret-MovieSales\\AspNetCoreMvc-eTicaret-MovieSales.csproj|C:\\ISTKA-Yaz-2-Projects\\AspNetCoreMVC\\AspNetCoreMvc-eTicaret-MovieSales\\aspnetcoremvc-eticaret-moviesales\\repositories\\customerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5A0EA19-E3F4-4FDF-A23D-2003ED68CBB3}|AspNetCoreMvc-eTicaret-MovieSales\\AspNetCoreMvc-eTicaret-MovieSales.csproj|solutionrelative:aspnetcoremvc-eticaret-moviesales\\repositories\\customerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5A0EA19-E3F4-4FDF-A23D-2003ED68CBB3}|AspNetCoreMvc-eTicaret-MovieSales\\AspNetCoreMvc-eTicaret-MovieSales.csproj|C:\\ISTKA-Yaz-2-Projects\\AspNetCoreMVC\\AspNetCoreMvc-eTicaret-MovieSales\\aspnetcoremvc-eticaret-moviesales\\viewmodels\\customerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5A0EA19-E3F4-4FDF-A23D-2003ED68CBB3}|AspNetCoreMvc-eTicaret-MovieSales\\AspNetCoreMvc-eTicaret-MovieSales.csproj|solutionrelative:aspnetcoremvc-eticaret-moviesales\\viewmodels\\customerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5A0EA19-E3F4-4FDF-A23D-2003ED68CBB3}|AspNetCoreMvc-eTicaret-MovieSales\\AspNetCoreMvc-eTicaret-MovieSales.csproj|C:\\ISTKA-Yaz-2-Projects\\AspNetCoreMVC\\AspNetCoreMvc-eTicaret-MovieSales\\aspnetcoremvc-eticaret-moviesales\\views\\sepet\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F5A0EA19-E3F4-4FDF-A23D-2003ED68CBB3}|AspNetCoreMvc-eTicaret-MovieSales\\AspNetCoreMvc-eTicaret-MovieSales.csproj|solutionrelative:aspnetcoremvc-eticaret-moviesales\\views\\sepet\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5A0EA19-E3F4-4FDF-A23D-2003ED68CBB3}|AspNetCoreMvc-eTicaret-MovieSales\\AspNetCoreMvc-eTicaret-MovieSales.csproj|C:\\ISTKA-Yaz-2-Projects\\AspNetCoreMVC\\AspNetCoreMvc-eTicaret-MovieSales\\aspnetcoremvc-eticaret-moviesales\\viewmodels\\moviesaledetailviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5A0EA19-E3F4-4FDF-A23D-2003ED68CBB3}|AspNetCoreMvc-eTicaret-MovieSales\\AspNetCoreMvc-eTicaret-MovieSales.csproj|solutionrelative:aspnetcoremvc-eticaret-moviesales\\viewmodels\\moviesaledetailviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5A0EA19-E3F4-4FDF-A23D-2003ED68CBB3}|AspNetCoreMvc-eTicaret-MovieSales\\AspNetCoreMvc-eTicaret-MovieSales.csproj|C:\\ISTKA-Yaz-2-Projects\\AspNetCoreMVC\\AspNetCoreMvc-eTicaret-MovieSales\\aspnetcoremvc-eticaret-moviesales\\viewmodels\\customerloginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5A0EA19-E3F4-4FDF-A23D-2003ED68CBB3}|AspNetCoreMvc-eTicaret-MovieSales\\AspNetCoreMvc-eTicaret-MovieSales.csproj|solutionrelative:aspnetcoremvc-eticaret-moviesales\\viewmodels\\customerloginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5A0EA19-E3F4-4FDF-A23D-2003ED68CBB3}|AspNetCoreMvc-eTicaret-MovieSales\\AspNetCoreMvc-eTicaret-MovieSales.csproj|C:\\ISTKA-Yaz-2-Projects\\AspNetCoreMVC\\AspNetCoreMvc-eTicaret-MovieSales\\aspnetcoremvc-eticaret-moviesales\\views\\customer\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F5A0EA19-E3F4-4FDF-A23D-2003ED68CBB3}|AspNetCoreMvc-eTicaret-MovieSales\\AspNetCoreMvc-eTicaret-MovieSales.csproj|solutionrelative:aspnetcoremvc-eticaret-moviesales\\views\\customer\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5A0EA19-E3F4-4FDF-A23D-2003ED68CBB3}|AspNetCoreMvc-eTicaret-MovieSales\\AspNetCoreMvc-eTicaret-MovieSales.csproj|C:\\ISTKA-Yaz-2-Projects\\AspNetCoreMVC\\AspNetCoreMvc-eTicaret-MovieSales\\aspnetcoremvc-eticaret-moviesales\\views\\customer\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F5A0EA19-E3F4-4FDF-A23D-2003ED68CBB3}|AspNetCoreMvc-eTicaret-MovieSales\\AspNetCoreMvc-eTicaret-MovieSales.csproj|solutionrelative:aspnetcoremvc-eticaret-moviesales\\views\\customer\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5A0EA19-E3F4-4FDF-A23D-2003ED68CBB3}|AspNetCoreMvc-eTicaret-MovieSales\\AspNetCoreMvc-eTicaret-MovieSales.csproj|C:\\ISTKA-Yaz-2-Projects\\AspNetCoreMVC\\AspNetCoreMvc-eTicaret-MovieSales\\aspnetcoremvc-eticaret-moviesales\\controllers\\moviecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5A0EA19-E3F4-4FDF-A23D-2003ED68CBB3}|AspNetCoreMvc-eTicaret-MovieSales\\AspNetCoreMvc-eTicaret-MovieSales.csproj|solutionrelative:aspnetcoremvc-eticaret-moviesales\\controllers\\moviecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5A0EA19-E3F4-4FDF-A23D-2003ED68CBB3}|AspNetCoreMvc-eTicaret-MovieSales\\AspNetCoreMvc-eTicaret-MovieSales.csproj|C:\\ISTKA-Yaz-2-Projects\\AspNetCoreMVC\\AspNetCoreMvc-eTicaret-MovieSales\\aspnetcoremvc-eticaret-moviesales\\viewmodels\\movieviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5A0EA19-E3F4-4FDF-A23D-2003ED68CBB3}|AspNetCoreMvc-eTicaret-MovieSales\\AspNetCoreMvc-eTicaret-MovieSales.csproj|solutionrelative:aspnetcoremvc-eticaret-moviesales\\viewmodels\\movieviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5A0EA19-E3F4-4FDF-A23D-2003ED68CBB3}|AspNetCoreMvc-eTicaret-MovieSales\\AspNetCoreMvc-eTicaret-MovieSales.csproj|C:\\ISTKA-Yaz-2-Projects\\AspNetCoreMVC\\AspNetCoreMvc-eTicaret-MovieSales\\aspnetcoremvc-eticaret-moviesales\\models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5A0EA19-E3F4-4FDF-A23D-2003ED68CBB3}|AspNetCoreMvc-eTicaret-MovieSales\\AspNetCoreMvc-eTicaret-MovieSales.csproj|solutionrelative:aspnetcoremvc-eticaret-moviesales\\models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5A0EA19-E3F4-4FDF-A23D-2003ED68CBB3}|AspNetCoreMvc-eTicaret-MovieSales\\AspNetCoreMvc-eTicaret-MovieSales.csproj|C:\\ISTKA-Yaz-2-Projects\\AspNetCoreMVC\\AspNetCoreMvc-eTicaret-MovieSales\\aspnetcoremvc-eticaret-moviesales\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5A0EA19-E3F4-4FDF-A23D-2003ED68CBB3}|AspNetCoreMvc-eTicaret-MovieSales\\AspNetCoreMvc-eTicaret-MovieSales.csproj|solutionrelative:aspnetcoremvc-eticaret-moviesales\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5A0EA19-E3F4-4FDF-A23D-2003ED68CBB3}|AspNetCoreMvc-eTicaret-MovieSales\\AspNetCoreMvc-eTicaret-MovieSales.csproj|C:\\ISTKA-Yaz-2-Projects\\AspNetCoreMVC\\AspNetCoreMvc-eTicaret-MovieSales\\aspnetcoremvc-eticaret-moviesales\\views\\movie\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F5A0EA19-E3F4-4FDF-A23D-2003ED68CBB3}|AspNetCoreMvc-eTicaret-MovieSales\\AspNetCoreMvc-eTicaret-MovieSales.csproj|solutionrelative:aspnetcoremvc-eticaret-moviesales\\views\\movie\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5A0EA19-E3F4-4FDF-A23D-2003ED68CBB3}|AspNetCoreMvc-eTicaret-MovieSales\\AspNetCoreMvc-eTicaret-MovieSales.csproj|C:\\ISTKA-Yaz-2-Projects\\AspNetCoreMVC\\AspNetCoreMvc-eTicaret-MovieSales\\aspnetcoremvc-eticaret-moviesales\\models\\sessionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5A0EA19-E3F4-4FDF-A23D-2003ED68CBB3}|AspNetCoreMvc-eTicaret-MovieSales\\AspNetCoreMvc-eTicaret-MovieSales.csproj|solutionrelative:aspnetcoremvc-eticaret-moviesales\\models\\sessionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5A0EA19-E3F4-4FDF-A23D-2003ED68CBB3}|AspNetCoreMvc-eTicaret-MovieSales\\AspNetCoreMvc-eTicaret-MovieSales.csproj|C:\\ISTKA-Yaz-2-Projects\\AspNetCoreMVC\\AspNetCoreMvc-eTicaret-MovieSales\\aspnetcoremvc-eticaret-moviesales\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F5A0EA19-E3F4-4FDF-A23D-2003ED68CBB3}|AspNetCoreMvc-eTicaret-MovieSales\\AspNetCoreMvc-eTicaret-MovieSales.csproj|solutionrelative:aspnetcoremvc-eticaret-moviesales\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5A0EA19-E3F4-4FDF-A23D-2003ED68CBB3}|AspNetCoreMvc-eTicaret-MovieSales\\AspNetCoreMvc-eTicaret-MovieSales.csproj|C:\\ISTKA-Yaz-2-Projects\\AspNetCoreMVC\\AspNetCoreMvc-eTicaret-MovieSales\\aspnetcoremvc-eticaret-moviesales\\views\\movie\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F5A0EA19-E3F4-4FDF-A23D-2003ED68CBB3}|AspNetCoreMvc-eTicaret-MovieSales\\AspNetCoreMvc-eTicaret-MovieSales.csproj|solutionrelative:aspnetcoremvc-eticaret-moviesales\\views\\movie\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5A0EA19-E3F4-4FDF-A23D-2003ED68CBB3}|AspNetCoreMvc-eTicaret-MovieSales\\AspNetCoreMvc-eTicaret-MovieSales.csproj|C:\\ISTKA-Yaz-2-Projects\\AspNetCoreMVC\\AspNetCoreMvc-eTicaret-MovieSales\\aspnetcoremvc-eticaret-moviesales\\views\\movie\\local.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F5A0EA19-E3F4-4FDF-A23D-2003ED68CBB3}|AspNetCoreMvc-eTicaret-MovieSales\\AspNetCoreMvc-eTicaret-MovieSales.csproj|solutionrelative:aspnetcoremvc-eticaret-moviesales\\views\\movie\\local.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5A0EA19-E3F4-4FDF-A23D-2003ED68CBB3}|AspNetCoreMvc-eTicaret-MovieSales\\AspNetCoreMvc-eTicaret-MovieSales.csproj|C:\\ISTKA-Yaz-2-Projects\\AspNetCoreMVC\\AspNetCoreMvc-eTicaret-MovieSales\\aspnetcoremvc-eticaret-moviesales\\views\\movie\\populer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F5A0EA19-E3F4-4FDF-A23D-2003ED68CBB3}|AspNetCoreMvc-eTicaret-MovieSales\\AspNetCoreMvc-eTicaret-MovieSales.csproj|solutionrelative:aspnetcoremvc-eticaret-moviesales\\views\\movie\\populer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5A0EA19-E3F4-4FDF-A23D-2003ED68CBB3}|AspNetCoreMvc-eTicaret-MovieSales\\AspNetCoreMvc-eTicaret-MovieSales.csproj|C:\\ISTKA-Yaz-2-Projects\\AspNetCoreMVC\\AspNetCoreMvc-eTicaret-MovieSales\\aspnetcoremvc-eticaret-moviesales\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F5A0EA19-E3F4-4FDF-A23D-2003ED68CBB3}|AspNetCoreMvc-eTicaret-MovieSales\\AspNetCoreMvc-eTicaret-MovieSales.csproj|solutionrelative:aspnetcoremvc-eticaret-moviesales\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5A0EA19-E3F4-4FDF-A23D-2003ED68CBB3}|AspNetCoreMvc-eTicaret-MovieSales\\AspNetCoreMvc-eTicaret-MovieSales.csproj|C:\\ISTKA-Yaz-2-Projects\\AspNetCoreMVC\\AspNetCoreMvc-eTicaret-MovieSales\\aspnetcoremvc-eticaret-moviesales\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5A0EA19-E3F4-4FDF-A23D-2003ED68CBB3}|AspNetCoreMvc-eTicaret-MovieSales\\AspNetCoreMvc-eTicaret-MovieSales.csproj|solutionrelative:aspnetcoremvc-eticaret-moviesales\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5A0EA19-E3F4-4FDF-A23D-2003ED68CBB3}|AspNetCoreMvc-eTicaret-MovieSales\\AspNetCoreMvc-eTicaret-MovieSales.csproj|C:\\ISTKA-Yaz-2-Projects\\AspNetCoreMVC\\AspNetCoreMvc-eTicaret-MovieSales\\aspnetcoremvc-eticaret-moviesales\\repositories\\movierepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5A0EA19-E3F4-4FDF-A23D-2003ED68CBB3}|AspNetCoreMvc-eTicaret-MovieSales\\AspNetCoreMvc-eTicaret-MovieSales.csproj|solutionrelative:aspnetcoremvc-eticaret-moviesales\\repositories\\movierepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5A0EA19-E3F4-4FDF-A23D-2003ED68CBB3}|AspNetCoreMvc-eTicaret-MovieSales\\AspNetCoreMvc-eTicaret-MovieSales.csproj|C:\\ISTKA-Yaz-2-Projects\\AspNetCoreMVC\\AspNetCoreMvc-eTicaret-MovieSales\\aspnetcoremvc-eticaret-moviesales\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F5A0EA19-E3F4-4FDF-A23D-2003ED68CBB3}|AspNetCoreMvc-eTicaret-MovieSales\\AspNetCoreMvc-eTicaret-MovieSales.csproj|solutionrelative:aspnetcoremvc-eticaret-moviesales\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5A0EA19-E3F4-4FDF-A23D-2003ED68CBB3}|AspNetCoreMvc-eTicaret-MovieSales\\AspNetCoreMvc-eTicaret-MovieSales.csproj|C:\\ISTKA-Yaz-2-Projects\\AspNetCoreMVC\\AspNetCoreMvc-eTicaret-MovieSales\\aspnetcoremvc-eticaret-moviesales\\viewcomponents\\genresviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5A0EA19-E3F4-4FDF-A23D-2003ED68CBB3}|AspNetCoreMvc-eTicaret-MovieSales\\AspNetCoreMvc-eTicaret-MovieSales.csproj|solutionrelative:aspnetcoremvc-eticaret-moviesales\\viewcomponents\\genresviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5A0EA19-E3F4-4FDF-A23D-2003ED68CBB3}|AspNetCoreMvc-eTicaret-MovieSales\\AspNetCoreMvc-eTicaret-MovieSales.csproj|C:\\ISTKA-Yaz-2-Projects\\AspNetCoreMVC\\AspNetCoreMvc-eTicaret-MovieSales\\aspnetcoremvc-eticaret-moviesales\\viewmodels\\genreviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5A0EA19-E3F4-4FDF-A23D-2003ED68CBB3}|AspNetCoreMvc-eTicaret-MovieSales\\AspNetCoreMvc-eTicaret-MovieSales.csproj|solutionrelative:aspnetcoremvc-eticaret-moviesales\\viewmodels\\genreviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5A0EA19-E3F4-4FDF-A23D-2003ED68CBB3}|AspNetCoreMvc-eTicaret-MovieSales\\AspNetCoreMvc-eTicaret-MovieSales.csproj|C:\\ISTKA-Yaz-2-Projects\\AspNetCoreMVC\\AspNetCoreMvc-eTicaret-MovieSales\\aspnetcoremvc-eticaret-moviesales\\models\\genre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5A0EA19-E3F4-4FDF-A23D-2003ED68CBB3}|AspNetCoreMvc-eTicaret-MovieSales\\AspNetCoreMvc-eTicaret-MovieSales.csproj|solutionrelative:aspnetcoremvc-eticaret-moviesales\\models\\genre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5A0EA19-E3F4-4FDF-A23D-2003ED68CBB3}|AspNetCoreMvc-eTicaret-MovieSales\\AspNetCoreMvc-eTicaret-MovieSales.csproj|C:\\ISTKA-Yaz-2-Projects\\AspNetCoreMVC\\AspNetCoreMvc-eTicaret-MovieSales\\aspnetcoremvc-eticaret-moviesales\\repositories\\genrerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5A0EA19-E3F4-4FDF-A23D-2003ED68CBB3}|AspNetCoreMvc-eTicaret-MovieSales\\AspNetCoreMvc-eTicaret-MovieSales.csproj|solutionrelative:aspnetcoremvc-eticaret-moviesales\\repositories\\genrerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5A0EA19-E3F4-4FDF-A23D-2003ED68CBB3}|AspNetCoreMvc-eTicaret-MovieSales\\AspNetCoreMvc-eTicaret-MovieSales.csproj|C:\\ISTKA-Yaz-2-Projects\\AspNetCoreMVC\\AspNetCoreMvc-eTicaret-MovieSales\\aspnetcoremvc-eticaret-moviesales\\interfaces\\imovierepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5A0EA19-E3F4-4FDF-A23D-2003ED68CBB3}|AspNetCoreMvc-eTicaret-MovieSales\\AspNetCoreMvc-eTicaret-MovieSales.csproj|solutionrelative:aspnetcoremvc-eticaret-moviesales\\interfaces\\imovierepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5A0EA19-E3F4-4FDF-A23D-2003ED68CBB3}|AspNetCoreMvc-eTicaret-MovieSales\\AspNetCoreMvc-eTicaret-MovieSales.csproj|C:\\ISTKA-Yaz-2-Projects\\AspNetCoreMVC\\AspNetCoreMvc-eTicaret-MovieSales\\aspnetcoremvc-eticaret-moviesales\\interfaces\\icustomerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5A0EA19-E3F4-4FDF-A23D-2003ED68CBB3}|AspNetCoreMvc-eTicaret-MovieSales\\AspNetCoreMvc-eTicaret-MovieSales.csproj|solutionrelative:aspnetcoremvc-eticaret-moviesales\\interfaces\\icustomerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5A0EA19-E3F4-4FDF-A23D-2003ED68CBB3}|AspNetCoreMvc-eTicaret-MovieSales\\AspNetCoreMvc-eTicaret-MovieSales.csproj|C:\\ISTKA-Yaz-2-Projects\\AspNetCoreMVC\\AspNetCoreMvc-eTicaret-MovieSales\\aspnetcoremvc-eticaret-moviesales\\interfaces\\igenrerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5A0EA19-E3F4-4FDF-A23D-2003ED68CBB3}|AspNetCoreMvc-eTicaret-MovieSales\\AspNetCoreMvc-eTicaret-MovieSales.csproj|solutionrelative:aspnetcoremvc-eticaret-moviesales\\interfaces\\igenrerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\ISTKA-Yaz-2-Projects\\AspNetCoreMVC\\AspNetCoreMvc-eTicaret-MovieSales\\AspNetCoreMvc-eTicaret-MovieSales\\appsettings.json",
+              "RelativeDocumentMoniker": "AspNetCoreMvc-eTicaret-MovieSales\\appsettings.json",
+              "ToolTip": "C:\\ISTKA-Yaz-2-Projects\\AspNetCoreMVC\\AspNetCoreMvc-eTicaret-MovieSales\\AspNetCoreMvc-eTicaret-MovieSales\\appsettings.json",
+              "RelativeToolTip": "AspNetCoreMvc-eTicaret-MovieSales\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-26T08:22:13.691Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IMovieSaleDetailRepository.cs",
+              "DocumentMoniker": "C:\\ISTKA-Yaz-2-Projects\\AspNetCoreMVC\\AspNetCoreMvc-eTicaret-MovieSales\\AspNetCoreMvc-eTicaret-MovieSales\\Interfaces\\IMovieSaleDetailRepository.cs",
+              "RelativeDocumentMoniker": "AspNetCoreMvc-eTicaret-MovieSales\\Interfaces\\IMovieSaleDetailRepository.cs",
+              "ToolTip": "C:\\ISTKA-Yaz-2-Projects\\AspNetCoreMVC\\AspNetCoreMvc-eTicaret-MovieSales\\AspNetCoreMvc-eTicaret-MovieSales\\Interfaces\\IMovieSaleDetailRepository.cs",
+              "RelativeToolTip": "AspNetCoreMvc-eTicaret-MovieSales\\Interfaces\\IMovieSaleDetailRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T06:40:01.227Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CustomerController.cs",
+              "DocumentMoniker": "C:\\ISTKA-Yaz-2-Projects\\AspNetCoreMVC\\AspNetCoreMvc-eTicaret-MovieSales\\AspNetCoreMvc-eTicaret-MovieSales\\Controllers\\CustomerController.cs",
+              "RelativeDocumentMoniker": "AspNetCoreMvc-eTicaret-MovieSales\\Controllers\\CustomerController.cs",
+              "ToolTip": "C:\\ISTKA-Yaz-2-Projects\\AspNetCoreMVC\\AspNetCoreMvc-eTicaret-MovieSales\\AspNetCoreMvc-eTicaret-MovieSales\\Controllers\\CustomerController.cs",
+              "RelativeToolTip": "AspNetCoreMvc-eTicaret-MovieSales\\Controllers\\CustomerController.cs",
+              "ViewState": "AQIAAGYAAAAAAAAAAAAAwHEAAABwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T05:47:51.318Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MessageShow.cshtml",
+              "DocumentMoniker": "C:\\ISTKA-Yaz-2-Projects\\AspNetCoreMVC\\AspNetCoreMvc-eTicaret-MovieSales\\AspNetCoreMvc-eTicaret-MovieSales\\Views\\Customer\\MessageShow.cshtml",
+              "RelativeDocumentMoniker": "AspNetCoreMvc-eTicaret-MovieSales\\Views\\Customer\\MessageShow.cshtml",
+              "ToolTip": "C:\\ISTKA-Yaz-2-Projects\\AspNetCoreMVC\\AspNetCoreMvc-eTicaret-MovieSales\\AspNetCoreMvc-eTicaret-MovieSales\\Views\\Customer\\MessageShow.cshtml",
+              "RelativeToolTip": "AspNetCoreMvc-eTicaret-MovieSales\\Views\\Customer\\MessageShow.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-26T07:29:34.994Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_LayoutMovie.cshtml",
+              "DocumentMoniker": "C:\\ISTKA-Yaz-2-Projects\\AspNetCoreMVC\\AspNetCoreMvc-eTicaret-MovieSales\\AspNetCoreMvc-eTicaret-MovieSales\\Views\\Shared\\_LayoutMovie.cshtml",
+              "RelativeDocumentMoniker": "AspNetCoreMvc-eTicaret-MovieSales\\Views\\Shared\\_LayoutMovie.cshtml",
+              "ToolTip": "C:\\ISTKA-Yaz-2-Projects\\AspNetCoreMVC\\AspNetCoreMvc-eTicaret-MovieSales\\AspNetCoreMvc-eTicaret-MovieSales\\Views\\Shared\\_LayoutMovie.cshtml",
+              "RelativeToolTip": "AspNetCoreMvc-eTicaret-MovieSales\\Views\\Shared\\_LayoutMovie.cshtml",
+              "ViewState": "AQIAADoAAAAAAAAAAAAAAC4AAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-11T08:06:05.987Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MovieDbContext.cs",
+              "DocumentMoniker": "C:\\ISTKA-Yaz-2-Projects\\AspNetCoreMVC\\AspNetCoreMvc-eTicaret-MovieSales\\AspNetCoreMvc-eTicaret-MovieSales\\Data\\MovieDbContext.cs",
+              "RelativeDocumentMoniker": "AspNetCoreMvc-eTicaret-MovieSales\\Data\\MovieDbContext.cs",
+              "ToolTip": "C:\\ISTKA-Yaz-2-Projects\\AspNetCoreMVC\\AspNetCoreMvc-eTicaret-MovieSales\\AspNetCoreMvc-eTicaret-MovieSales\\Data\\MovieDbContext.cs",
+              "RelativeToolTip": "AspNetCoreMvc-eTicaret-MovieSales\\Data\\MovieDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T08:20:08.407Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\ISTKA-Yaz-2-Projects\\AspNetCoreMVC\\AspNetCoreMvc-eTicaret-MovieSales\\AspNetCoreMvc-eTicaret-MovieSales\\Program.cs",
+              "RelativeDocumentMoniker": "AspNetCoreMvc-eTicaret-MovieSales\\Program.cs",
+              "ToolTip": "C:\\ISTKA-Yaz-2-Projects\\AspNetCoreMVC\\AspNetCoreMvc-eTicaret-MovieSales\\AspNetCoreMvc-eTicaret-MovieSales\\Program.cs",
+              "RelativeToolTip": "AspNetCoreMvc-eTicaret-MovieSales\\Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABMAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T06:31:53.692Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MovieSaleRepository.cs",
+              "DocumentMoniker": "C:\\ISTKA-Yaz-2-Projects\\AspNetCoreMVC\\AspNetCoreMvc-eTicaret-MovieSales\\AspNetCoreMvc-eTicaret-MovieSales\\Repositories\\MovieSaleRepository.cs",
+              "RelativeDocumentMoniker": "AspNetCoreMvc-eTicaret-MovieSales\\Repositories\\MovieSaleRepository.cs",
+              "ToolTip": "C:\\ISTKA-Yaz-2-Projects\\AspNetCoreMVC\\AspNetCoreMvc-eTicaret-MovieSales\\AspNetCoreMvc-eTicaret-MovieSales\\Repositories\\MovieSaleRepository.cs",
+              "RelativeToolTip": "AspNetCoreMvc-eTicaret-MovieSales\\Repositories\\MovieSaleRepository.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAWwBUAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T07:35:37.895Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ConfirmPayment.cshtml",
+              "DocumentMoniker": "C:\\ISTKA-Yaz-2-Projects\\AspNetCoreMVC\\AspNetCoreMvc-eTicaret-MovieSales\\AspNetCoreMvc-eTicaret-MovieSales\\Views\\Customer\\ConfirmPayment.cshtml",
+              "RelativeDocumentMoniker": "AspNetCoreMvc-eTicaret-MovieSales\\Views\\Customer\\ConfirmPayment.cshtml",
+              "ToolTip": "C:\\ISTKA-Yaz-2-Projects\\AspNetCoreMVC\\AspNetCoreMvc-eTicaret-MovieSales\\AspNetCoreMvc-eTicaret-MovieSales\\Views\\Customer\\ConfirmPayment.cshtml",
+              "RelativeToolTip": "AspNetCoreMvc-eTicaret-MovieSales\\Views\\Customer\\ConfirmPayment.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-25T08:06:36.839Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MovieSaleDetailRepository.cs",
+              "DocumentMoniker": "C:\\ISTKA-Yaz-2-Projects\\AspNetCoreMVC\\AspNetCoreMvc-eTicaret-MovieSales\\AspNetCoreMvc-eTicaret-MovieSales\\Repositories\\MovieSaleDetailRepository.cs",
+              "RelativeDocumentMoniker": "AspNetCoreMvc-eTicaret-MovieSales\\Repositories\\MovieSaleDetailRepository.cs",
+              "ToolTip": "C:\\ISTKA-Yaz-2-Projects\\AspNetCoreMVC\\AspNetCoreMvc-eTicaret-MovieSales\\AspNetCoreMvc-eTicaret-MovieSales\\Repositories\\MovieSaleDetailRepository.cs",
+              "RelativeToolTip": "AspNetCoreMvc-eTicaret-MovieSales\\Repositories\\MovieSaleDetailRepository.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAQwCQAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T07:46:54.699Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SepetController.cs",
+              "DocumentMoniker": "C:\\ISTKA-Yaz-2-Projects\\AspNetCoreMVC\\AspNetCoreMvc-eTicaret-MovieSales\\AspNetCoreMvc-eTicaret-MovieSales\\Controllers\\SepetController.cs",
+              "RelativeDocumentMoniker": "AspNetCoreMvc-eTicaret-MovieSales\\Controllers\\SepetController.cs",
+              "ToolTip": "C:\\ISTKA-Yaz-2-Projects\\AspNetCoreMVC\\AspNetCoreMvc-eTicaret-MovieSales\\AspNetCoreMvc-eTicaret-MovieSales\\Controllers\\SepetController.cs",
+              "RelativeToolTip": "AspNetCoreMvc-eTicaret-MovieSales\\Controllers\\SepetController.cs",
+              "ViewState": "AQIAACkAAAAAAAAAAAAWwDAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T06:30:42.283Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "C:\\ISTKA-Yaz-2-Projects\\AspNetCoreMVC\\AspNetCoreMvc-eTicaret-MovieSales\\AspNetCoreMvc-eTicaret-MovieSales\\Mapping\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "AspNetCoreMvc-eTicaret-MovieSales\\Mapping\\MappingProfile.cs",
+              "ToolTip": "C:\\ISTKA-Yaz-2-Projects\\AspNetCoreMVC\\AspNetCoreMvc-eTicaret-MovieSales\\AspNetCoreMvc-eTicaret-MovieSales\\Mapping\\MappingProfile.cs",
+              "RelativeToolTip": "AspNetCoreMvc-eTicaret-MovieSales\\Mapping\\MappingProfile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T06:31:22.915Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MovieSaleDetail.cs",
+              "DocumentMoniker": "C:\\ISTKA-Yaz-2-Projects\\AspNetCoreMVC\\AspNetCoreMvc-eTicaret-MovieSales\\AspNetCoreMvc-eTicaret-MovieSales\\Models\\MovieSaleDetail.cs",
+              "RelativeDocumentMoniker": "AspNetCoreMvc-eTicaret-MovieSales\\Models\\MovieSaleDetail.cs",
+              "ToolTip": "C:\\ISTKA-Yaz-2-Projects\\AspNetCoreMVC\\AspNetCoreMvc-eTicaret-MovieSales\\AspNetCoreMvc-eTicaret-MovieSales\\Models\\MovieSaleDetail.cs",
+              "RelativeToolTip": "AspNetCoreMvc-eTicaret-MovieSales\\Models\\MovieSaleDetail.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T06:22:09.979Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CustomerFaturaViewModel.cs",
+              "DocumentMoniker": "C:\\ISTKA-Yaz-2-Projects\\AspNetCoreMVC\\AspNetCoreMvc-eTicaret-MovieSales\\AspNetCoreMvc-eTicaret-MovieSales\\ViewModels\\CustomerFaturaViewModel.cs",
+              "RelativeDocumentMoniker": "AspNetCoreMvc-eTicaret-MovieSales\\ViewModels\\CustomerFaturaViewModel.cs",
+              "ToolTip": "C:\\ISTKA-Yaz-2-Projects\\AspNetCoreMVC\\AspNetCoreMvc-eTicaret-MovieSales\\AspNetCoreMvc-eTicaret-MovieSales\\ViewModels\\CustomerFaturaViewModel.cs",
+              "RelativeToolTip": "AspNetCoreMvc-eTicaret-MovieSales\\ViewModels\\CustomerFaturaViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T07:51:05.563Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ConfirmAddress.cshtml",
+              "DocumentMoniker": "C:\\ISTKA-Yaz-2-Projects\\AspNetCoreMVC\\AspNetCoreMvc-eTicaret-MovieSales\\AspNetCoreMvc-eTicaret-MovieSales\\Views\\Customer\\ConfirmAddress.cshtml",
+              "RelativeDocumentMoniker": "AspNetCoreMvc-eTicaret-MovieSales\\Views\\Customer\\ConfirmAddress.cshtml",
+              "ToolTip": "C:\\ISTKA-Yaz-2-Projects\\AspNetCoreMVC\\AspNetCoreMvc-eTicaret-MovieSales\\AspNetCoreMvc-eTicaret-MovieSales\\Views\\Customer\\ConfirmAddress.cshtml",
+              "RelativeToolTip": "AspNetCoreMvc-eTicaret-MovieSales\\Views\\Customer\\ConfirmAddress.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-25T06:26:23.568Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CustomerRepository.cs",
+              "DocumentMoniker": "C:\\ISTKA-Yaz-2-Projects\\AspNetCoreMVC\\AspNetCoreMvc-eTicaret-MovieSales\\AspNetCoreMvc-eTicaret-MovieSales\\Repositories\\CustomerRepository.cs",
+              "RelativeDocumentMoniker": "AspNetCoreMvc-eTicaret-MovieSales\\Repositories\\CustomerRepository.cs",
+              "ToolTip": "C:\\ISTKA-Yaz-2-Projects\\AspNetCoreMVC\\AspNetCoreMvc-eTicaret-MovieSales\\AspNetCoreMvc-eTicaret-MovieSales\\Repositories\\CustomerRepository.cs",
+              "RelativeToolTip": "AspNetCoreMvc-eTicaret-MovieSales\\Repositories\\CustomerRepository.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAD4vyoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T07:31:37.428Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "CustomerViewModel.cs",
+              "DocumentMoniker": "C:\\ISTKA-Yaz-2-Projects\\AspNetCoreMVC\\AspNetCoreMvc-eTicaret-MovieSales\\AspNetCoreMvc-eTicaret-MovieSales\\ViewModels\\CustomerViewModel.cs",
+              "RelativeDocumentMoniker": "AspNetCoreMvc-eTicaret-MovieSales\\ViewModels\\CustomerViewModel.cs",
+              "ToolTip": "C:\\ISTKA-Yaz-2-Projects\\AspNetCoreMVC\\AspNetCoreMvc-eTicaret-MovieSales\\AspNetCoreMvc-eTicaret-MovieSales\\ViewModels\\CustomerViewModel.cs",
+              "RelativeToolTip": "AspNetCoreMvc-eTicaret-MovieSales\\ViewModels\\CustomerViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T05:52:56.211Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "MovieSaleDetailViewModel.cs",
+              "DocumentMoniker": "C:\\ISTKA-Yaz-2-Projects\\AspNetCoreMVC\\AspNetCoreMvc-eTicaret-MovieSales\\AspNetCoreMvc-eTicaret-MovieSales\\ViewModels\\MovieSaleDetailViewModel.cs",
+              "RelativeDocumentMoniker": "AspNetCoreMvc-eTicaret-MovieSales\\ViewModels\\MovieSaleDetailViewModel.cs",
+              "ToolTip": "C:\\ISTKA-Yaz-2-Projects\\AspNetCoreMVC\\AspNetCoreMvc-eTicaret-MovieSales\\AspNetCoreMvc-eTicaret-MovieSales\\ViewModels\\MovieSaleDetailViewModel.cs",
+              "RelativeToolTip": "AspNetCoreMvc-eTicaret-MovieSales\\ViewModels\\MovieSaleDetailViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T07:47:17.092Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\ISTKA-Yaz-2-Projects\\AspNetCoreMVC\\AspNetCoreMvc-eTicaret-MovieSales\\AspNetCoreMvc-eTicaret-MovieSales\\Views\\Sepet\\Index.cshtml",
+              "RelativeDocumentMoniker": "AspNetCoreMvc-eTicaret-MovieSales\\Views\\Sepet\\Index.cshtml",
+              "ToolTip": "C:\\ISTKA-Yaz-2-Projects\\AspNetCoreMVC\\AspNetCoreMvc-eTicaret-MovieSales\\AspNetCoreMvc-eTicaret-MovieSales\\Views\\Sepet\\Index.cshtml",
+              "RelativeToolTip": "AspNetCoreMvc-eTicaret-MovieSales\\Views\\Sepet\\Index.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAADwvwkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-14T08:12:19.701Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "CustomerLoginViewModel.cs",
+              "DocumentMoniker": "C:\\ISTKA-Yaz-2-Projects\\AspNetCoreMVC\\AspNetCoreMvc-eTicaret-MovieSales\\AspNetCoreMvc-eTicaret-MovieSales\\ViewModels\\CustomerLoginViewModel.cs",
+              "RelativeDocumentMoniker": "AspNetCoreMvc-eTicaret-MovieSales\\ViewModels\\CustomerLoginViewModel.cs",
+              "ToolTip": "C:\\ISTKA-Yaz-2-Projects\\AspNetCoreMVC\\AspNetCoreMvc-eTicaret-MovieSales\\AspNetCoreMvc-eTicaret-MovieSales\\ViewModels\\CustomerLoginViewModel.cs",
+              "RelativeToolTip": "AspNetCoreMvc-eTicaret-MovieSales\\ViewModels\\CustomerLoginViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T06:04:10.786Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\ISTKA-Yaz-2-Projects\\AspNetCoreMVC\\AspNetCoreMvc-eTicaret-MovieSales\\AspNetCoreMvc-eTicaret-MovieSales\\Views\\Customer\\Create.cshtml",
+              "RelativeDocumentMoniker": "AspNetCoreMvc-eTicaret-MovieSales\\Views\\Customer\\Create.cshtml",
+              "ToolTip": "C:\\ISTKA-Yaz-2-Projects\\AspNetCoreMVC\\AspNetCoreMvc-eTicaret-MovieSales\\AspNetCoreMvc-eTicaret-MovieSales\\Views\\Customer\\Create.cshtml",
+              "RelativeToolTip": "AspNetCoreMvc-eTicaret-MovieSales\\Views\\Customer\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-25T06:00:05.442Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\ISTKA-Yaz-2-Projects\\AspNetCoreMVC\\AspNetCoreMvc-eTicaret-MovieSales\\AspNetCoreMvc-eTicaret-MovieSales\\Views\\Customer\\Login.cshtml",
+              "RelativeDocumentMoniker": "AspNetCoreMvc-eTicaret-MovieSales\\Views\\Customer\\Login.cshtml",
+              "ToolTip": "C:\\ISTKA-Yaz-2-Projects\\AspNetCoreMVC\\AspNetCoreMvc-eTicaret-MovieSales\\AspNetCoreMvc-eTicaret-MovieSales\\Views\\Customer\\Login.cshtml",
+              "RelativeToolTip": "AspNetCoreMvc-eTicaret-MovieSales\\Views\\Customer\\Login.cshtml",
+              "ViewState": "AQIAAA8AAAAAAAAAAADwvxwAAABMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-25T06:01:35.463Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "MovieViewModel.cs",
+              "DocumentMoniker": "C:\\ISTKA-Yaz-2-Projects\\AspNetCoreMVC\\AspNetCoreMvc-eTicaret-MovieSales\\AspNetCoreMvc-eTicaret-MovieSales\\ViewModels\\MovieViewModel.cs",
+              "RelativeDocumentMoniker": "AspNetCoreMvc-eTicaret-MovieSales\\ViewModels\\MovieViewModel.cs",
+              "ToolTip": "C:\\ISTKA-Yaz-2-Projects\\AspNetCoreMVC\\AspNetCoreMvc-eTicaret-MovieSales\\AspNetCoreMvc-eTicaret-MovieSales\\ViewModels\\MovieViewModel.cs",
+              "RelativeToolTip": "AspNetCoreMvc-eTicaret-MovieSales\\ViewModels\\MovieViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T05:54:49.11Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Movie.cs",
+              "DocumentMoniker": "C:\\ISTKA-Yaz-2-Projects\\AspNetCoreMVC\\AspNetCoreMvc-eTicaret-MovieSales\\AspNetCoreMvc-eTicaret-MovieSales\\Models\\Movie.cs",
+              "RelativeDocumentMoniker": "AspNetCoreMvc-eTicaret-MovieSales\\Models\\Movie.cs",
+              "ToolTip": "C:\\ISTKA-Yaz-2-Projects\\AspNetCoreMVC\\AspNetCoreMvc-eTicaret-MovieSales\\AspNetCoreMvc-eTicaret-MovieSales\\Models\\Movie.cs",
+              "RelativeToolTip": "AspNetCoreMvc-eTicaret-MovieSales\\Models\\Movie.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAkAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T07:40:43.157Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "MovieController.cs",
+              "DocumentMoniker": "C:\\ISTKA-Yaz-2-Projects\\AspNetCoreMVC\\AspNetCoreMvc-eTicaret-MovieSales\\AspNetCoreMvc-eTicaret-MovieSales\\Controllers\\MovieController.cs",
+              "RelativeDocumentMoniker": "AspNetCoreMvc-eTicaret-MovieSales\\Controllers\\MovieController.cs",
+              "ToolTip": "C:\\ISTKA-Yaz-2-Projects\\AspNetCoreMVC\\AspNetCoreMvc-eTicaret-MovieSales\\AspNetCoreMvc-eTicaret-MovieSales\\Controllers\\MovieController.cs",
+              "RelativeToolTip": "AspNetCoreMvc-eTicaret-MovieSales\\Controllers\\MovieController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAmwAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T08:24:10.54Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\ISTKA-Yaz-2-Projects\\AspNetCoreMVC\\AspNetCoreMvc-eTicaret-MovieSales\\AspNetCoreMvc-eTicaret-MovieSales\\Models\\Customer.cs",
+              "RelativeDocumentMoniker": "AspNetCoreMvc-eTicaret-MovieSales\\Models\\Customer.cs",
+              "ToolTip": "C:\\ISTKA-Yaz-2-Projects\\AspNetCoreMVC\\AspNetCoreMvc-eTicaret-MovieSales\\AspNetCoreMvc-eTicaret-MovieSales\\Models\\Customer.cs",
+              "RelativeToolTip": "AspNetCoreMvc-eTicaret-MovieSales\\Models\\Customer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T08:09:16.715Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\ISTKA-Yaz-2-Projects\\AspNetCoreMVC\\AspNetCoreMvc-eTicaret-MovieSales\\AspNetCoreMvc-eTicaret-MovieSales\\Views\\Movie\\Index.cshtml",
+              "RelativeDocumentMoniker": "AspNetCoreMvc-eTicaret-MovieSales\\Views\\Movie\\Index.cshtml",
+              "ToolTip": "C:\\ISTKA-Yaz-2-Projects\\AspNetCoreMVC\\AspNetCoreMvc-eTicaret-MovieSales\\AspNetCoreMvc-eTicaret-MovieSales\\Views\\Movie\\Index.cshtml",
+              "RelativeToolTip": "AspNetCoreMvc-eTicaret-MovieSales\\Views\\Movie\\Index.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAACYAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-14T07:58:34.97Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "SessionExtensions.cs",
+              "DocumentMoniker": "C:\\ISTKA-Yaz-2-Projects\\AspNetCoreMVC\\AspNetCoreMvc-eTicaret-MovieSales\\AspNetCoreMvc-eTicaret-MovieSales\\Models\\SessionExtensions.cs",
+              "RelativeDocumentMoniker": "AspNetCoreMvc-eTicaret-MovieSales\\Models\\SessionExtensions.cs",
+              "ToolTip": "C:\\ISTKA-Yaz-2-Projects\\AspNetCoreMVC\\AspNetCoreMvc-eTicaret-MovieSales\\AspNetCoreMvc-eTicaret-MovieSales\\Models\\SessionExtensions.cs",
+              "RelativeToolTip": "AspNetCoreMvc-eTicaret-MovieSales\\Models\\SessionExtensions.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAIA2wA4AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T06:49:52.448Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Populer.cshtml",
+              "DocumentMoniker": "C:\\ISTKA-Yaz-2-Projects\\AspNetCoreMVC\\AspNetCoreMvc-eTicaret-MovieSales\\AspNetCoreMvc-eTicaret-MovieSales\\Views\\Movie\\Populer.cshtml",
+              "RelativeDocumentMoniker": "AspNetCoreMvc-eTicaret-MovieSales\\Views\\Movie\\Populer.cshtml",
+              "ToolTip": "C:\\ISTKA-Yaz-2-Projects\\AspNetCoreMVC\\AspNetCoreMvc-eTicaret-MovieSales\\AspNetCoreMvc-eTicaret-MovieSales\\Views\\Movie\\Populer.cshtml",
+              "RelativeToolTip": "AspNetCoreMvc-eTicaret-MovieSales\\Views\\Movie\\Populer.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAoAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-12T09:18:38.891Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\ISTKA-Yaz-2-Projects\\AspNetCoreMVC\\AspNetCoreMvc-eTicaret-MovieSales\\AspNetCoreMvc-eTicaret-MovieSales\\Views\\Movie\\Details.cshtml",
+              "RelativeDocumentMoniker": "AspNetCoreMvc-eTicaret-MovieSales\\Views\\Movie\\Details.cshtml",
+              "ToolTip": "C:\\ISTKA-Yaz-2-Projects\\AspNetCoreMVC\\AspNetCoreMvc-eTicaret-MovieSales\\AspNetCoreMvc-eTicaret-MovieSales\\Views\\Movie\\Details.cshtml",
+              "RelativeToolTip": "AspNetCoreMvc-eTicaret-MovieSales\\Views\\Movie\\Details.cshtml",
+              "ViewState": "AQIAABoAAAAAAAAAAADwvx4AAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-12T09:28:24.194Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Local.cshtml",
+              "DocumentMoniker": "C:\\ISTKA-Yaz-2-Projects\\AspNetCoreMVC\\AspNetCoreMvc-eTicaret-MovieSales\\AspNetCoreMvc-eTicaret-MovieSales\\Views\\Movie\\Local.cshtml",
+              "RelativeDocumentMoniker": "AspNetCoreMvc-eTicaret-MovieSales\\Views\\Movie\\Local.cshtml",
+              "ToolTip": "C:\\ISTKA-Yaz-2-Projects\\AspNetCoreMVC\\AspNetCoreMvc-eTicaret-MovieSales\\AspNetCoreMvc-eTicaret-MovieSales\\Views\\Movie\\Local.cshtml",
+              "RelativeToolTip": "AspNetCoreMvc-eTicaret-MovieSales\\Views\\Movie\\Local.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAkAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-13T06:10:53.006Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\ISTKA-Yaz-2-Projects\\AspNetCoreMVC\\AspNetCoreMvc-eTicaret-MovieSales\\AspNetCoreMvc-eTicaret-MovieSales\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "AspNetCoreMvc-eTicaret-MovieSales\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\ISTKA-Yaz-2-Projects\\AspNetCoreMVC\\AspNetCoreMvc-eTicaret-MovieSales\\AspNetCoreMvc-eTicaret-MovieSales\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "AspNetCoreMvc-eTicaret-MovieSales\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADgAAABXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-12T07:55:43.008Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\ISTKA-Yaz-2-Projects\\AspNetCoreMVC\\AspNetCoreMvc-eTicaret-MovieSales\\AspNetCoreMvc-eTicaret-MovieSales\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "AspNetCoreMvc-eTicaret-MovieSales\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\ISTKA-Yaz-2-Projects\\AspNetCoreMVC\\AspNetCoreMvc-eTicaret-MovieSales\\AspNetCoreMvc-eTicaret-MovieSales\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "AspNetCoreMvc-eTicaret-MovieSales\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAUwBwAAAB/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-11T08:09:07.428Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\ISTKA-Yaz-2-Projects\\AspNetCoreMVC\\AspNetCoreMvc-eTicaret-MovieSales\\AspNetCoreMvc-eTicaret-MovieSales\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "AspNetCoreMvc-eTicaret-MovieSales\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\ISTKA-Yaz-2-Projects\\AspNetCoreMVC\\AspNetCoreMvc-eTicaret-MovieSales\\AspNetCoreMvc-eTicaret-MovieSales\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "AspNetCoreMvc-eTicaret-MovieSales\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAQwBIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T07:53:21.37Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "MovieRepository.cs",
+              "DocumentMoniker": "C:\\ISTKA-Yaz-2-Projects\\AspNetCoreMVC\\AspNetCoreMvc-eTicaret-MovieSales\\AspNetCoreMvc-eTicaret-MovieSales\\Repositories\\MovieRepository.cs",
+              "RelativeDocumentMoniker": "AspNetCoreMvc-eTicaret-MovieSales\\Repositories\\MovieRepository.cs",
+              "ToolTip": "C:\\ISTKA-Yaz-2-Projects\\AspNetCoreMVC\\AspNetCoreMvc-eTicaret-MovieSales\\AspNetCoreMvc-eTicaret-MovieSales\\Repositories\\MovieRepository.cs",
+              "RelativeToolTip": "AspNetCoreMvc-eTicaret-MovieSales\\Repositories\\MovieRepository.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAIwCMAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T07:26:24.615Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "GenreViewModel.cs",
+              "DocumentMoniker": "C:\\ISTKA-Yaz-2-Projects\\AspNetCoreMVC\\AspNetCoreMvc-eTicaret-MovieSales\\AspNetCoreMvc-eTicaret-MovieSales\\ViewModels\\GenreViewModel.cs",
+              "RelativeDocumentMoniker": "AspNetCoreMvc-eTicaret-MovieSales\\ViewModels\\GenreViewModel.cs",
+              "ToolTip": "C:\\ISTKA-Yaz-2-Projects\\AspNetCoreMVC\\AspNetCoreMvc-eTicaret-MovieSales\\AspNetCoreMvc-eTicaret-MovieSales\\ViewModels\\GenreViewModel.cs",
+              "RelativeToolTip": "AspNetCoreMvc-eTicaret-MovieSales\\ViewModels\\GenreViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T09:17:12.247Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "GenresViewComponent.cs",
+              "DocumentMoniker": "C:\\ISTKA-Yaz-2-Projects\\AspNetCoreMVC\\AspNetCoreMvc-eTicaret-MovieSales\\AspNetCoreMvc-eTicaret-MovieSales\\ViewComponents\\GenresViewComponent.cs",
+              "RelativeDocumentMoniker": "AspNetCoreMvc-eTicaret-MovieSales\\ViewComponents\\GenresViewComponent.cs",
+              "ToolTip": "C:\\ISTKA-Yaz-2-Projects\\AspNetCoreMVC\\AspNetCoreMvc-eTicaret-MovieSales\\AspNetCoreMvc-eTicaret-MovieSales\\ViewComponents\\GenresViewComponent.cs",
+              "RelativeToolTip": "AspNetCoreMvc-eTicaret-MovieSales\\ViewComponents\\GenresViewComponent.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAuwBMAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T09:11:30.8Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\ISTKA-Yaz-2-Projects\\AspNetCoreMVC\\AspNetCoreMvc-eTicaret-MovieSales\\AspNetCoreMvc-eTicaret-MovieSales\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "AspNetCoreMvc-eTicaret-MovieSales\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\ISTKA-Yaz-2-Projects\\AspNetCoreMVC\\AspNetCoreMvc-eTicaret-MovieSales\\AspNetCoreMvc-eTicaret-MovieSales\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "AspNetCoreMvc-eTicaret-MovieSales\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-11T09:44:31.869Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Genre.cs",
+              "DocumentMoniker": "C:\\ISTKA-Yaz-2-Projects\\AspNetCoreMVC\\AspNetCoreMvc-eTicaret-MovieSales\\AspNetCoreMvc-eTicaret-MovieSales\\Models\\Genre.cs",
+              "RelativeDocumentMoniker": "AspNetCoreMvc-eTicaret-MovieSales\\Models\\Genre.cs",
+              "ToolTip": "C:\\ISTKA-Yaz-2-Projects\\AspNetCoreMVC\\AspNetCoreMvc-eTicaret-MovieSales\\AspNetCoreMvc-eTicaret-MovieSales\\Models\\Genre.cs",
+              "RelativeToolTip": "AspNetCoreMvc-eTicaret-MovieSales\\Models\\Genre.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T07:39:27.477Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "GenreRepository.cs",
+              "DocumentMoniker": "C:\\ISTKA-Yaz-2-Projects\\AspNetCoreMVC\\AspNetCoreMvc-eTicaret-MovieSales\\AspNetCoreMvc-eTicaret-MovieSales\\Repositories\\GenreRepository.cs",
+              "RelativeDocumentMoniker": "AspNetCoreMvc-eTicaret-MovieSales\\Repositories\\GenreRepository.cs",
+              "ToolTip": "C:\\ISTKA-Yaz-2-Projects\\AspNetCoreMVC\\AspNetCoreMvc-eTicaret-MovieSales\\AspNetCoreMvc-eTicaret-MovieSales\\Repositories\\GenreRepository.cs",
+              "RelativeToolTip": "AspNetCoreMvc-eTicaret-MovieSales\\Repositories\\GenreRepository.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAwwCoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T06:46:08.549Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "ICustomerRepository.cs",
+              "DocumentMoniker": "C:\\ISTKA-Yaz-2-Projects\\AspNetCoreMVC\\AspNetCoreMvc-eTicaret-MovieSales\\AspNetCoreMvc-eTicaret-MovieSales\\Interfaces\\ICustomerRepository.cs",
+              "RelativeDocumentMoniker": "AspNetCoreMvc-eTicaret-MovieSales\\Interfaces\\ICustomerRepository.cs",
+              "ToolTip": "C:\\ISTKA-Yaz-2-Projects\\AspNetCoreMVC\\AspNetCoreMvc-eTicaret-MovieSales\\AspNetCoreMvc-eTicaret-MovieSales\\Interfaces\\ICustomerRepository.cs",
+              "RelativeToolTip": "AspNetCoreMvc-eTicaret-MovieSales\\Interfaces\\ICustomerRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T06:31:36.08Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "IMovieRepository.cs",
+              "DocumentMoniker": "C:\\ISTKA-Yaz-2-Projects\\AspNetCoreMVC\\AspNetCoreMvc-eTicaret-MovieSales\\AspNetCoreMvc-eTicaret-MovieSales\\Interfaces\\IMovieRepository.cs",
+              "RelativeDocumentMoniker": "AspNetCoreMvc-eTicaret-MovieSales\\Interfaces\\IMovieRepository.cs",
+              "ToolTip": "C:\\ISTKA-Yaz-2-Projects\\AspNetCoreMVC\\AspNetCoreMvc-eTicaret-MovieSales\\AspNetCoreMvc-eTicaret-MovieSales\\Interfaces\\IMovieRepository.cs",
+              "RelativeToolTip": "AspNetCoreMvc-eTicaret-MovieSales\\Interfaces\\IMovieRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T06:29:30.648Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "IGenreRepository.cs",
+              "DocumentMoniker": "C:\\ISTKA-Yaz-2-Projects\\AspNetCoreMVC\\AspNetCoreMvc-eTicaret-MovieSales\\AspNetCoreMvc-eTicaret-MovieSales\\Interfaces\\IGenreRepository.cs",
+              "RelativeDocumentMoniker": "AspNetCoreMvc-eTicaret-MovieSales\\Interfaces\\IGenreRepository.cs",
+              "ToolTip": "C:\\ISTKA-Yaz-2-Projects\\AspNetCoreMVC\\AspNetCoreMvc-eTicaret-MovieSales\\AspNetCoreMvc-eTicaret-MovieSales\\Interfaces\\IGenreRepository.cs",
+              "RelativeToolTip": "AspNetCoreMvc-eTicaret-MovieSales\\Interfaces\\IGenreRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T06:25:05.429Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
